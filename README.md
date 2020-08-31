@@ -22,6 +22,8 @@ Today you are going to make your first HTML page! You are going to create a webp
 - At least **one** link (`<a>`) to an external website.
 - At least **three** images (`<img>`) that have been upload and given alternative text.
 
+Do **not** worry about the style of the page. We will be styling this page in upcoming lessons!
+
 BASIC HTML TAGS 
 -------------------
 As we anything in this course, if there is something you don't see here, but want to be able to do, **GOOGLE IT**! The best resource for information regarding HTML and CSS is [W3 schools](http://w3schools.com/). This website has a large amount of documentation for just about any tag that you may wish to use!
