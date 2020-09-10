@@ -38,7 +38,7 @@ TAG | DESCRIPTION| EXAMPLE
 `<h1></h1>` | The `<h1>` to `<h6>` tags are used to define HTML headings. | `<h1>This is the largest header!</h1>`
 `<p></p>` | Defines a paragraph | `<p>This is  some text in a paragraph</p>`
 `<a></a>` | Defines a hyperlink, which is used to link from one page to another | `<a href="www.google.com">Go to Google!</a>`
-`<img>` | Used to embed an image in an HTML page. There is **NO** closing tag for an image tag| `<img href="beyonce.jpg" alt="The queen">`
+`<img>` | Used to embed an image in an HTML page. There is **NO** closing tag for an image tag| `<img src="beyonce.jpg" alt="The queen">`
 `<li></li>` | Defines a list item. The `<li>` tag is used **insdie of** `<ol>` and `<ul>` tags| `<li>List item</li>`
 `<ol></ol>` | Creates an ordered (numbered) list. The `<li>` tag is used to define each list item| `<ol><li>Item number 1</li></ol>`
 `<ul></ul>` | Creates an unordered (bulleted) list. The `<li>` tag is used to define each list item| `<ul><li>Bulleted item</li></ul>`
