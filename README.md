@@ -7,7 +7,7 @@ Welcome to your first full HTML/CSS page for AP CSP! We are going to build a per
 
 YOUR TASK
 ------------
-Today you are going to make your first HTML page! You are going to create a webpage that introduces your partner to the rest of the class. This webpage should give us information that is meaningful to your partner that the rest of the class should know. Some things to consider including:
+Today you are going to make your first fully designed webpage! You are going to create a webpage that introduces your partner to the rest of the class. This webpage should give us information that is meaningful to your partner that the rest of the class should know. Some things to consider including:
 - Where they grew up
 - Favorite activities
 - Favorite pop culture items (TV shows, music, movies, etc.)
